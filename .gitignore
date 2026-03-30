@@ -1,0 +1,12 @@
+*.asv
+*.autosave
+*.mlx.autosave
+*.m~
+*.fig
+slprj/
+sfprj/
+work/
+cache/
+codegen/
+resources/project/
+*.mex*
